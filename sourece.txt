@@ -1,0 +1,1 @@
+https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json
